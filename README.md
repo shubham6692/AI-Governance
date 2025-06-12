@@ -6,8 +6,8 @@ Key principles include fairness, transparency, accountability, privacy, security
 3. Fair and Inculsive (Bias Free)
 4. Right to privacy and data protection
 5. Safety and security
-6. Explainable , Transparency , accountability
-7. Awareness and technical literacy
+6. Explainable , Transparency , Accountability
+7. Awareness and Technical literacy
 
 [https://macquarie.udemy.com/course-dashboard-redirect/?course_id=3362284](https://macquarie.udemy.com/course/aiethics/learn/lecture/21493804?start=135#overview)
 
