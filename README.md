@@ -2,11 +2,12 @@
 Key principles include fairness, transparency, accountability, privacy, security, and inclusiveness
 
 1. Beneficence and Nonmaleficence
-2. Human Oversight
+2. Human oversight and determination
 3. Fair and Inculsive (Bias Free)
-4. Privacy
-5. Secure
-6. Explainable and accountable
+4. Right to privacy and data protection
+5. Safety and security
+6. Explainable , Transparency , accountability
+7. Awareness and technical literacy
 
 [https://macquarie.udemy.com/course-dashboard-redirect/?course_id=3362284](https://macquarie.udemy.com/course/aiethics/learn/lecture/21493804?start=135#overview)
 
