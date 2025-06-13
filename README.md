@@ -2,11 +2,11 @@
 Key principles include fairness, transparency, accountability, privacy, security, and inclusiveness
 
 1. Beneficence and Nonmaleficence
-2. Human oversight and determination
-3. Fair and Inculsive (Bias Free)
-4. Right to privacy and data protection
+2. Human oversight and determination : Google Airbus/Boeing debacle on air India crash/ Harvard breast cancer example
+3. Fair and Inculsive (Bias Free) : Amazon resume bias
+4. Right to privacy and data protection : Data Leak
 5. Safety and security
-6. Explainable , Transparency , Accountability
+6. Explainable , Transparency , Accountability : Why was a loan denied?
 7. Awareness and Technical literacy
 
 [https://macquarie.udemy.com/course-dashboard-redirect/?course_id=3362284](https://macquarie.udemy.com/course/aiethics/learn/lecture/21493804?start=135#overview)
