@@ -23,3 +23,4 @@ https://www.telefonica.com/en/wp-content/uploads/sites/5/2023/06/Positioning-Art
 6. Transparency :
 7. Conreollability : Mechanism to monitor and steer AI behavior
 8. Governance
+9. Avoid Jailbreaks using prompt shields
