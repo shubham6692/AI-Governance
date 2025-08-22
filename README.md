@@ -2,7 +2,7 @@
 Key principles include fairness, transparency, accountability, privacy, security, and inclusiveness
 
 1. Beneficence and Nonmaleficence
-2. Human oversight and determination : 
+2. Human oversight and determination , hallucinations.
 3. Fair and Inculsive (Bias Free) : Amazon resume bias
 4. Right to privacy and data protection : Data Leak
 5. Safety and security
